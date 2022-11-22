@@ -5,7 +5,7 @@
 "main": "kalgans.js",
 "type": "commonjs",
 "scripts": {
-"start": "node kalgans.js"
+"start": "node main.js"
 },
 "keywords": [
 "termux",
